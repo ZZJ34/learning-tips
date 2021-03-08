@@ -12,4 +12,4 @@
 
 ##### *4.*在生成最终 APK 之前，打包器会使用 zipalign工具对应用进行优化，减少其在设备上运行时的内存占用。
 
-![](/Users/zhaozhengji/Documents/build-process_2x.png)
+![](./picture/build-process_2x.png)
